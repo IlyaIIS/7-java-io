@@ -11,7 +11,6 @@ public class Task02Main {
                 System.out.write(13);
 
             lastByte = readedByte;
-
             if (readedByte != 13)
                 System.out.write(readedByte);
         }
